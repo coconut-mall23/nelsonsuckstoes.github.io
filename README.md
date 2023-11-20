@@ -27,11 +27,11 @@
 <body>
     <h1>Ein interview wit Hans Zimmer</h1>
     <ul>
-        <li><li>
-        <li></li>
-        <li></li>
-        <li>\</li>
-        <li></li>
+        <li>fill here<li>
+        <li>fill here</li>
+        <li> fill here</li>
+        <li>Fill here</li>
+        <li>Fill</li>
         <li>CraftClue: wss://play.craftclue.rocks</li>
         <li>ExpoMC: wss://expomc.repl.co</li>
         <li>Flame Network: wss://flamemc.org</li>
