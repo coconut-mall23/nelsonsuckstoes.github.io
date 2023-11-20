@@ -29,7 +29,7 @@
     <ul>
         <li>fill here<li>
         <li>fill here</li>
-        <li> fill here</li>
+        <li>fill here</li>
         <li>Fill here</li>
         <li>Fill</li>
         <li>CraftClue: wss://play.craftclue.rocks</li>
