@@ -27,8 +27,7 @@
 <body>
     <h1>Ein interview wit Hanz Zimmer</h1>
     <ul>
-        <li>Gavin:<li>
-        <li>Zimmer:</li>
+        <li>Gavin:<li> <li>Zimmer:</li>
            
     </ul>
 
