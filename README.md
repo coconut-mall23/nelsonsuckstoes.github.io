@@ -28,11 +28,21 @@
     <h1>Ein interview wit Hans Zimmer</h1>
     <ul>
        
+      Gavin: Guten tag!
+      Zimmer: Guten tag!
+      G: Wie gehts dir
+      Z: Ich bin Müder
+      G: 
+      Z:
+      G:
+      Z:
+      G:
+      Z:
       G:
       Z:
         
-    </ul>
 
+<u1>  
     <footer>Made by Gavin B</footer>
 </body>
 </html>
