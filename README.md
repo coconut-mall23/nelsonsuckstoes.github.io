@@ -27,18 +27,8 @@
 <body>
     <h1>Ein interview wit Hanz Zimmer</h1>
     <ul>
-        <li>Gavin:
-        Zimmer: </li>
-        <li>G: <li>
-        <li>Z: </li>
-          <li>G: <li>
-        <li>Z: </li>
-          <li>G: <li>
-        <li>Z: </li>
-          <li>G: <li>
-        <li>Z: </li>
-          <li>G: <li>
-        <li>Z: </li>
+        <li>Gavin:<li>
+        <li>Zimmer:</li>
            
     </ul>
 
