@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Eaglercraft Server IPs</title>
+    <title>Gavins G interview</title>
     <style>
         body {
             display: flex;
@@ -27,8 +27,8 @@
 <body>
     <h1>Ein interview wit Hanz Zimmer</h1>
     <ul>
-        <li>Gavin: <li>
-        <li>Zimmer: </li>
+        <li>Gavin:
+        Zimmer: </li>
         <li>G: <li>
         <li>Z: </li>
           <li>G: <li>
