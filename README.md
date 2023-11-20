@@ -1,6 +1,6 @@
 # Nelson sucks toes 
                                                 Ein interview wit Hanz Zimmer
-        <!DOCTYPE html>
+        
 <html>
 <head>
     <title>HZ interview/title>
