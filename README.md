@@ -1,7 +1,7 @@
 # Nelson sucks toes 
 ------------------------------------------------=Ein interview mit Hanz Zimmer=---------------------------------------------
 
-![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/image.png) ![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/L%20king.png) ![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/assets/147558893/69e5f9de-3e96-4207-aa85-1c89fea66ed4) ![Alt text]()![Alt text]()
+![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/image.png) ![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/L%20king.png) ![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/assets/147558893/69e5f9de-3e96-4207-aa85-1c89fea66ed4) ![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/Dune.png)![Alt text]()
 
 
 
