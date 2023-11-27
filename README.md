@@ -1,7 +1,7 @@
 # Nelson sucks toes 
 ------------------------------------------------=Ein interview mit Hanz Zimmer=---------------------------------------------
 
-![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/image.png) https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/e.jpg
+![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/image.png)![Alt text](https://github.com/nelsonsuckstoes/nelsonsuckstoes.github.io/blob/main/e.jpg)
 
 
          Gavin: Guten tag!
